@@ -14,6 +14,5 @@ technology, are expected to become insufficient, making communication via the in
 secure than legacy systems and introduce significant cybersecurity risks. As critical infrastructure, microgrids require special protection.
 
 ## Project Goals
-This project aims to develop advanced monitoring and security procedures for microgrids. At its core, the project will create a co-simulation framework that models both the electrical, 
-decentralized grid (as seen from a future grid control center) and the internet (which is vulnerable to cyberattacks). The system will be tested and optimized using realistic virtual 
-cyberattacks.
+In this project we aim to develop advanced monitoring and security procedures for smart grids on the middle and low voltage level. At its core, we will create a co-simulation framework that models both the electrical, 
+decentralized grid, as seen from a future grid control center, using a hardware in the loop approach and the communication layer connected through the internet, which is vulnerable to a larger variety of cyberattacks. The system will be tested and optimized using realistic virtual cyberattacks.
